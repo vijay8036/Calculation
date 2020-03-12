@@ -51,5 +51,5 @@ require('./app/transition/routes.js')(app);
 
 // listen for requests
 app.listen(3001, () => {
-    console.log("Server is listening on port 3001");
+    console.log("Server is listening on port 3003");
 });
